@@ -94,7 +94,7 @@ Platform connecting travelers, verified merchants, and certified guides, with ge
 ## Let's Connect
 
 📍 Monastir, Tunisia 🇹🇳
- [LinkedIn]((https://www.linkedin.com/in/tasnim-mejbri-353ba4395/))
+ [LinkedIn](https://www.linkedin.com/in/tasnim-mejbri-353ba4395/)
 📧 tasnimmejbri12@gmail.com
 
 *Open to PFE internship opportunities in software development, so feel free to reach out!*
